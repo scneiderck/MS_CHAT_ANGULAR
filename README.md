@@ -32,4 +32,3 @@ $ ng test
 
 ## License
 
-By [Neiser Custodio](https://instagram.com/neisercode).
